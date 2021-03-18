@@ -1,4 +1,5 @@
 
+- https://velog.io/@mygomi
 - 👀 I’m interested in JavaScript and Python
 
 
