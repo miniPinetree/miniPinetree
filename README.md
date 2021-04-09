@@ -3,7 +3,7 @@
 👀 I’m interested in JavaScript and Python <br/>
 🎓 I majored in finance. <br/>
 👔 I worked for the Korea Development Bank. <br/>
-<br/><br/>
+<br/>
 Now I want to be a developer who grows and challenges.
 <br/><br/>
 I am interested in gamification UX. ✨<br/>
