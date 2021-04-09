@@ -7,7 +7,7 @@
 Now I want to be a developer who grows and challenges.
 <br/><br/>
 I am interested in gamification UX. ✨<br/>
-I want to give people fun and convenience. 💛
+I want to give people fun and convenience. 💛<br/>
 🔗 https://velog.io/@mygomi 
 <!---
 miniPinetree/miniPinetree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
