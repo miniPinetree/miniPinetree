@@ -1,12 +1,12 @@
 
-🔗 https://velog.io/@mygomi
-👀 I’m interested in JavaScript and Python
-🎓 I majored in finance.
-👔 I worked for the Korea Development Bank.
-
+🔗 https://velog.io/@mygomi <br/>
+👀 I’m interested in JavaScript and Python <br/>
+🎓 I majored in finance. <br/>
+👔 I worked for the Korea Development Bank. <br/>
+<br/>
 Now I want to be a developer who grows and challenges.
-
-I am interested in gamification UX. ✨
+<br/>
+I am interested in gamification UX. ✨<br/>
 I want to give people fun and convenience. 💛
 
 <!---
