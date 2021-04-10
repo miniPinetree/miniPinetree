@@ -1,5 +1,4 @@
 ## Hello World 🤸‍♀️
-<br/>
 👀 I’m interested in JavaScript and Python <br/>
 🎓 I majored in finance. <br/>
 👔 I worked for the Korea Development Bank. <br/>
@@ -10,7 +9,6 @@
 💛 I want to give people fun and convenience. <br/>
 ✨ I want to program what I think and keep learning. <br/>
 🔗 https://velog.io/@mygomi 
-<br/>
 <br/>
 <br/>
 <!---
