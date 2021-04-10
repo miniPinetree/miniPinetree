@@ -4,11 +4,11 @@
 🎓 I majored in finance. <br/>
 👔 I worked for the Korea Development Bank. <br/>
 <br/>
-Now I want to be a developer who grows and challenges.
+**Now I want to be a developer who grows and challenges.**
 <br/><br/>
-I am interested in gamification UX. ✨<br/>
-I want to give people fun and convenience. 💛<br/>
-I want to program what I think and keep learning. 💙<br/>
+💙 I’m interested in gamification UX and Data visualization. <br/>
+💛 I want to give people fun and convenience. <br/>
+✨ I want to program what I think and keep learning. <br/>
 🔗 https://velog.io/@mygomi 
 <br/>
 <br/>
