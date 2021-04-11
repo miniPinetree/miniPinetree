@@ -1,7 +1,6 @@
 ## Hello World 🤸‍♀️
 👀 I’m interested in JavaScript and Python <br/>
-🎓 I majored in finance. <br/>
-👔 I worked for the Korea Development Bank. <br/>
+👔 I majored in finance and worked for the Korea Development Bank. <br/>
 <br/>
 **Now I want to be a developer who grows and challenges.**
 <br/><br/>
