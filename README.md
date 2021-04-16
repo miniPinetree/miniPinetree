@@ -26,7 +26,6 @@ Techs that I've used at least once<br/><br/>
 💙 I’m interested in gamification UX and Data visualization. <br/>
 💛 I want to give people fun and convenience. <br/>
 <br/>
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -42,12 +41,14 @@ Techs that I've used at least once<br/><br/>
 <br/><br/><br/><br/>
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=misong321)](https://solved.ac/{userid})
 
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FminiPinetree&count_bg=%23DED9E3&title_bg=%23868585&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/><br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FminiPinetree&count_bg=%23DED9E3&title_bg=%23868585&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=misong321)](https://solved.ac/{userid})
 
 <!---
 miniPinetree/miniPinetree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
