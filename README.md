@@ -9,9 +9,13 @@
 <br/>
 💙 I’m interested in gamification UX and Data visualization. <br/>
 💛 I want to give people fun and convenience. <br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&theme=nightowl  & count_private = true)
+
 <br/>
+
 &hide=stars,commits,prs,issues,contribs
+
 ## 🛠 Tech Stack
 
 [! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? username = miniPinetree & layout = compact )] (https://github.com/anuraghazra/github-readme- 통계)
