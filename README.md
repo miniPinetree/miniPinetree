@@ -1,19 +1,4 @@
 
-## 🤗 READ Me
-<a href="https://velog.io/@mygomi">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<br/>
-💙 I’m interested in gamification UX and Data visualization. <br/>
-💛 I want to give people fun and convenience. <br/>
-✨ I want to program what I think and keep learning ! <br/>
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## 🛠 Tech Stack
 Techs that I've used at least once<br/><br/>
@@ -27,6 +12,20 @@ Techs that I've used at least once<br/><br/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
+
+## 🤗 READ Me
+<a href="https://velog.io/@mygomi">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<br/>
+💙 I’m interested in gamification UX and Data visualization. <br/>
+💛 I want to give people fun and convenience. <br/>
+✨ I want to program what I think and keep learning ! <br/>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📲 Contact
