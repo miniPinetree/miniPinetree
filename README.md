@@ -8,7 +8,7 @@
 </a></p>
 
 <h3 align="center"> interest </h2>
-<p align="center">gamification UX and Data visualization.<br/>I want to give people fun and convenience.</p> 
+<p align="center">Gamification UX and Data visualization.<br/>I want to give people fun and convenience.</p> 
 
 <h3 align="center"> strength </h2>
 <p align="center">Fast learner<br/>Always like learning something new.<br/>Experience working for a financial institution</p> 
