@@ -37,6 +37,12 @@ Techs that I've used at least once<br/><br/>
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<br/><br/>
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/{userid})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/{userid})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={userid})](https://solved.ac/{userid})
+
 <br/><br/><br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FminiPinetree&count_bg=%23DED9E3&title_bg=%23868585&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
