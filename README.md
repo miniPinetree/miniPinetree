@@ -36,8 +36,9 @@ The technology I use recently<br/><br/>
 
 <p align="center">
     
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=misong321)](https://solved.ac/misong321)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FminiPinetree&count_bg=%23DED9E3&title_bg=%23868585&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=misong321)](https://solved.ac/misong321)</p>
+<p align="center">
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FminiPinetree&count_bg=%23DED9E3&title_bg=%23868585&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </p>
 
