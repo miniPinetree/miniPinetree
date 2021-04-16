@@ -1,8 +1,4 @@
 
- 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=stars,prs,issues)
-
 
 ## 🤗 This is Me
 <a href="https://velog.io/@mygomi">
@@ -15,9 +11,18 @@
 💙 I’m interested in gamification UX and Data visualization. <br/>
 💛 I want to give people fun and convenience. <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
 
 <br/>
 
+## 📲 Contact
+<a href="mailto:mygomi05@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<br/>
 
 
 ## 🛠 Tech Stack
@@ -32,17 +37,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
 <br/>
-
-
-## 📲 Contact
-<a href="mailto:mygomi05@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<br/>
-
 
 <!---
 miniPinetree/miniPinetree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
