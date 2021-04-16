@@ -7,7 +7,6 @@
 </a>
 
 <br/>
-✨ Front-End Developer
 💙 I’m interested in gamification UX and Data visualization. <br/>
 💛 I want to give people fun and convenience. <br/>
 <br/>
