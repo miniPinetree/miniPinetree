@@ -1,6 +1,6 @@
 ## Hello World 🤸‍♀️ 
 👀 
-<img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=3766AB"/></a>&nbsp 
+<img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 #F7DF1E &logoColor=white
 JavaScript
