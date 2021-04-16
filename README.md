@@ -8,8 +8,8 @@
 <br/>
 
     
-<p align="center">I’m interested in gamification UX and Data visualization.</p> <br/>
-<p align="center">I want to give people fun and convenience.</p>
+<p align="center">I’m interested in gamification UX and Data visualization.<br/>I want to give people fun and convenience.</p> 
+
  <br/><br/>
 <div align="center" style="display:flex">
     
