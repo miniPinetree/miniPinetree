@@ -1,5 +1,4 @@
-
-:---:
+|:---------:|
 
 <p align="center"><a href="https://velog.io/@mygomi">
     <img 
