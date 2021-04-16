@@ -1,7 +1,7 @@
-# I'm Misong !
 
 ## 🛠 Tech Stack
-I've used at least once
+<p align="center">
+    Techs that I've used at least once
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
@@ -37,7 +37,7 @@ I've used at least once
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FminiPinetree&count_bg=%23DED9E3&title_bg=%23868585&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+</p>
 <!---
 miniPinetree/miniPinetree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
