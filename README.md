@@ -1,4 +1,3 @@
-|:---------:|
 
 <p align="center"><a href="https://velog.io/@mygomi">
     <img 
@@ -12,9 +11,11 @@
 <p align="center">I’m interested in gamification UX and Data visualization.</p> <br/>
 <p align="center">I want to give people fun and convenience.</p>
  <br/><br/>
-<p align="center">
+<div align="center" style="display:flex">
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
-</p>
+
+</div>
 <br/>
 <h2 align="center"> 🛠 Tech Stack </h2>
 
