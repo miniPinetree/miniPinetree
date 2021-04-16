@@ -1,6 +1,7 @@
 MISONG
 ## 🛠 Tech Stack
 I've used at least once
+<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
@@ -12,7 +13,7 @@ I've used at least once
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
-## 🛠 Contact
+## 📲 Contact
 
 <a href="mailto:mygomi05@gmail.com">
     <img 
