@@ -9,13 +9,15 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></div>
+<br/>
 
 
-<center><a href="https://velog.io/@mygomi">
+
+<p align="center"><a href="https://velog.io/@mygomi">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></center>
+</a></p>
 
 <br/>
 
