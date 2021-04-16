@@ -1,5 +1,5 @@
 
-## 🤗 READ ME 
+## 🤗 This is Me 
 <a href="https://velog.io/@mygomi">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
