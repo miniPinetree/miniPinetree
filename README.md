@@ -1,23 +1,4 @@
 
-
-<h2 align="center"> This is Me </h2>
-<center><a href="https://velog.io/@mygomi">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></center>
-
-<br/>
-<center>
-    
-I’m interested in gamification UX and Data visualization. <br/>
-I want to give people fun and convenience. <br/><br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
-</center>
-<br/>
-<h2 align="center"> 🛠 Tech Stack </h2>
-## 🛠 Tech Stack
 <div align="center" style="display:flex">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -29,18 +10,35 @@ I want to give people fun and convenience. <br/><br/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></div>
 
+
+<center><a href="https://velog.io/@mygomi">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a></center>
+
+<br/>
+
+    
+<p align="center">I’m interested in gamification UX and Data visualization.</p> <br/>
+<p align="center">I want to give people fun and convenience.</p>
+ <br/><br/>
+<p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
+</p>
+<br/>
+<h2 align="center"> 🛠 Tech Stack </h2>
+
 <br/>
 
 <h2 align="center"> 📲 Contact </h2>
 
-## 📲 Contact
-
-<center>
+<p align="center">
 <a href="mailto:mygomi05@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></center>
+</a></p>
 
 <br/>
 
