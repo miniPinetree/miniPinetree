@@ -26,7 +26,9 @@
 <p align="center">I want to give people fun and convenience.</p>
  <br/><br/>
 <p align="center">
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
+
 </p>
 <br/>
 <h2 align="center"> 🛠 Tech Stack </h2>
