@@ -3,9 +3,9 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <a href="https://velog.io/@mygomi" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://alpox.kr">
+<a href="https://velog.io/@mygomi">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&link=https://alpox.kr"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 👔 I majored in finance and worked for the Korea Development Bank. <br/>
