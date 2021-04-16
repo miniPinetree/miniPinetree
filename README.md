@@ -10,7 +10,6 @@
 💙 I’m interested in gamification UX and Data visualization. <br/>
 💛 I want to give people fun and convenience. <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&theme=nightowl  & count_private = true)
 
 <br/>
 
@@ -18,7 +17,6 @@
 
 ## 🛠 Tech Stack
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? username = miniPinetree & layout = compact )] (https://github.com/anuraghazra/github-readme- 통계)
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -41,6 +39,10 @@
 
  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&theme=nightowl  & count_private = true)
+
+
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? username = miniPinetree & layout = compact )] (https://github.com/anuraghazra/github-readme- 통계)
 
 <!---
 miniPinetree/miniPinetree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
