@@ -1,4 +1,12 @@
 
+ 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&theme=nightowl  & count_private = true)
+
+
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? username = miniPinetree & layout = compact )] (https://github.com/anuraghazra/github-readme- 통계)
+
+
 ## 🤗 This is Me
 <a href="https://velog.io/@mygomi">
     <img 
