@@ -1,5 +1,5 @@
 
-<h2 align="center"> This is Me </h2>
+<h2 align="center"> ✋ This is Me 🤚 </h2>
 
 <p align="center"><a href="https://velog.io/@mygomi">
     <img 
@@ -20,7 +20,7 @@
 
 </div>
 <br/>
-<h2 align="center"> 🛠 Tech Stack </h2>
+<h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 
 <div align="center" style="display:flex">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -36,7 +36,7 @@
 
 <br/>
 
-<h2 align="center"> 📲 Contact </h2>
+<h2 align="center"> 📲 Contact 📳 </h2>
 
 <p align="center">
 <a href="mailto:mygomi05@gmail.com">
