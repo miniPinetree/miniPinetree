@@ -1,12 +1,20 @@
 
+<h2 align="center"> This is Me </h2>
+
 <p align="center"><a href="https://velog.io/@mygomi">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
+
+<h3 align="center"> interest </h2>
 <p align="center">I’m interested in gamification UX and Data visualization.<br/>I want to give people fun and convenience.</p> 
-<div align="center" style="display:flex">
+
+<h3 align="center"> strength </h2>
+<p align="center">Fast learner<br/>Always like learning something new.<br/>Experience working for a financial institution</p> 
+
     
+<div align="center" style="display:flex">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
 
 </div>
