@@ -25,7 +25,7 @@ Techs that I've used at least once<br/><br/>
 <br/>
 💙 I’m interested in gamification UX and Data visualization. <br/>
 💛 I want to give people fun and convenience. <br/>
-✨ I want to program what I think and keep learning ! <br/>
+<br/>
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
