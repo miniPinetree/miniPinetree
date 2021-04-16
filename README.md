@@ -1,7 +1,7 @@
 
 ## 🛠 Tech Stack
 
-Techs that I've used at least once
+<p>Techs that I've used at least once</p>
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
@@ -15,6 +15,17 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
+## 🤗 Me
+<a href="https://velog.io/@mygomi">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+💙 I’m interested in gamification UX and Data visualization. <br/>
+💛 I want to give people fun and convenience. <br/>
+✨ I want to program what I think and keep learning ! <br/>
+
 
 ## 📲 Contact
 
@@ -23,20 +34,8 @@ Techs that I've used at least once
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://velog.io/@mygomi">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
-
-💙 I’m interested in gamification UX and Data visualization. <br/>
-💛 I want to give people fun and convenience. <br/>
-✨ I want to program what I think and keep learning ! <br/>
-<br/>
-<br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FminiPinetree&count_bg=%23DED9E3&title_bg=%23868585&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
