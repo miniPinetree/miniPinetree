@@ -4,13 +4,7 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
-
-<br/>
-
-    
 <p align="center">I’m interested in gamification UX and Data visualization.<br/>I want to give people fun and convenience.</p> 
-
- <br/><br/>
 <div align="center" style="display:flex">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
