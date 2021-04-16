@@ -1,11 +1,11 @@
 
 
-## 🤗 This is Me
-<a href="https://velog.io/@mygomi">
+<h2 align="center"> This is Me </h2>
+<center><a href="https://velog.io/@mygomi">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a></center>
 
 <br/>
 - I’m interested in gamification UX and Data visualization. <br/>
@@ -14,7 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
 
 <br/>
-
+<h2 align="center"> 🛠 Tech Stack </h2>
 ## 🛠 Tech Stack
 <div align="center" style="display:flex">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -28,6 +28,8 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></div>
 
 <br/>
+
+<h2 align="center"> 📲 Contact </h2>
 
 ## 📲 Contact
 <a href="mailto:mygomi05@gmail.com">
