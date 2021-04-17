@@ -37,7 +37,7 @@
 
 <br/>
 
-<h2 align="center"> 📲 Contact 📳 </h2>
+<h2 align="center"> 📲 Contact 📱 </h2>
 
 <p align="center">
 <a href="mailto:mygomi05@gmail.com">
