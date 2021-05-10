@@ -22,7 +22,7 @@
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 
 <div align="center" style="display:flex">
-     <h3> <Mainly used> </h3>
+     <h3> - Mainly used - </h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
@@ -36,7 +36,7 @@
          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>         
 <br/>
          
-<h3> <I've used at least once> </h3>
+<h3> - I've used at least once - </h3>
     
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></div>
