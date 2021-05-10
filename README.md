@@ -5,12 +5,11 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
-</br>
 <h4 align="center">고객 관점과 금융 도메인 지식을 갖춘 프론트엔드 개발자입니다.</h4>
-<h3 align="center"> 👀 Interest </h2>
+<h3 align="center"> Interest </h2>
 <p align="center">Gamification UX and Data visualization.<br/>I want to give people fun and convenience.</p> 
 
-<h3 align="center"> 💪 Strength </h2>
+<h3 align="center"> Strength </h2>
 <p align="center">Always like learning something new.<br/>Experience working for a financial institution</p> 
 
     
