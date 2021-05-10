@@ -1,7 +1,7 @@
 
 <h2 align="center"> ✋ This is Me 🤚 </h2>
-<h3 align="center">고객 관점과 금융 도메인 지식을 갖춘 프론트엔드 개발자입니다.</h3>
 <p align="center"><a href="https://velog.io/@mygomi">
+    <h3 align="center">고객 관점과 금융 도메인 지식을 갖춘 프론트엔드 개발자입니다.</h3>
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
