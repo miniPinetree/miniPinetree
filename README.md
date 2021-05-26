@@ -7,10 +7,10 @@
 </a></p>
 
 <h3 align="center"> Interest </h2>
-<p align="center">Gamification UX and Data visualization.<br/>I want to give people fun and convenience.</p> 
+<p align="center">**Gamification UX** and **Data visualization**.<br/>I want to give people **fun and convenience**.</p> 
 
 <h3 align="center"> Strength </h2>
-<p align="center">Always like learning something new.<br/>7years of experience working for a financial company</p> 
+<p align="center">Always **like learning something new**.<br/>**7years** of experience working for a **financial company**</p> 
 
     
 <div align="center" style="display:flex">
