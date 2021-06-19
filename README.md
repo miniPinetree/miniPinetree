@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>Gamification UX</td>
-    <td rowspan="2">Financial domain knowledge (Work experience at a government-run bank) </td>
+    <td rowspan="2">Financial domain knowledge <br/> (Work experience at a government-run bank) </td>
   </tr>
       <tr>
     <td>User Satisfaction</td>
