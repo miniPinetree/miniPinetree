@@ -10,7 +10,7 @@
 <p align="center">Gamification UX<br/>Data visualization.<br/>User Satisfaction</p>
 
 <h3 align="center"> Strength </h2>
-<p align="center">I like to learn new things.<br/>Financial domain knowledge (Work experience at a government-run bank)</p> 
+<p align="center">I like to learn new things.<br/>Financial domain knowledge<br/>(Work experience at a government-run bank)</p> 
 
     
 <div align="center" style="display:flex">
