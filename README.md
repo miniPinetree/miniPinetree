@@ -23,8 +23,8 @@
 
 <table style="table-layout: fixed">
   <tr>
-   <th>Mainly used</th>
-    <th>I've used at least once</th>
+   <th witdh="50%">Mainly used</th>
+    <th witdh="50%">I've used at least once</th>
   </tr>
   <tr>
     <td witdh="50%"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
