@@ -1,11 +1,11 @@
 
-<h1 align="center"> I'm a Front-end Developer </h1>
-<h3 align="center"> 📲 Contact Me 
-    <a href="https://velog.io/@mygomi">
+<h1 align="center"> I'm a Front-end Developer    <a href="https://velog.io/@mygomi">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:mygomi05@gmail.com">
+</a>  </h1>
+<h3 align="center"> 📲 Contact Me 
+ <a href="mailto:mygomi05@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
