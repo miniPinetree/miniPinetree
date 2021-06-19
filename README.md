@@ -6,28 +6,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
 
-<center>
-    <div>
-    <table style="table-layout: fixed; margin:auto">
-  <tr>
-    <th width="360px">Interest</th>
-    <th width="360px">Strength</th>
-  </tr>
-  <tr>
-    <td align="center">Data Visualization</td>
-    <td align="center">I like to learn new things</td>
-  </tr>
-  <tr>
-    <td align="center">Gamification UX</td>
-    <td align="center" rowspan="2">Financial domain knowledge <br/> (Work experience at a government-run bank) </td>
-  </tr>
-      <tr>
-    <td align="center">User Satisfaction</td>
-  </tr>
-</table>
-    </div>
-</center>
-
 <h3 align="center"> Interest </h2>
 <p align="center">Data visualization.<br/>Gamification UX<br/>User Satisfaction</p>
 
