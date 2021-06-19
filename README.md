@@ -1,6 +1,6 @@
 
 <h1 align="center"> I'm a Front-end Developer </h1>
-<h3 align="center"> 📲 Contact Me  　
+<h3 align="center"> 📲 Contact Me 
     <a href="https://velog.io/@mygomi">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
