@@ -10,7 +10,7 @@
 |:---:|:----:|
 | Data Visualization | I like to learn new things | 
 | Gamification UX | Financial domain knowledge | 
-| User Satisfaction |  | 
+| User Satisfaction |
 
 <h3 align="center"> Interest </h2>
 <p align="center">Data visualization.<br/>Gamification UX<br/>User Satisfaction</p>
