@@ -46,7 +46,12 @@
 </table>
 
 <br/>
-
+<h2 align="center"> Contact Me 📲  <a href="mailto:mygomi05@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a></h2>
+<br/>
 <div align="center" style="display:flex">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
@@ -54,7 +59,7 @@
 </div>
 
 <br/>
-<h2 align="center"> 📲 Contact Me📱 <a href="mailto:mygomi05@gmail.com">
+<h2 align="center"> Contact Me 📲  <a href="mailto:mygomi05@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
