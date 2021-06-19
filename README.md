@@ -1,6 +1,13 @@
 
 <h1 align="center"> I'm a Front-end Developer</h1>
 <h2 align="center">✋ This is Me 🤚</h2>
+<p align="center">
+ <a href="https://velog.io/@mygomi">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+</p>
 <table style="table-layout: fixed">
   <tr>
    <th width="25%">Interest</th>
@@ -53,11 +60,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
    </h2>
-    <a href="https://velog.io/@mygomi">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <br/>
 <div align="center" style="display:flex">
     
