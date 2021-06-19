@@ -23,11 +23,12 @@
 
 <table style="table-layout: fixed">
   <tr>
-   <th width="50%">Mainly used</th>
-    <th width="50%">I've used at least once</th>
+   <th width="25%">Mainly used</th>
+    <th width="25%">I've used at least once</th>
   </tr>
   <tr>
-    <td ><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+    <td >
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
          <br/>
