@@ -8,10 +8,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </p>
+
 <table style="table-layout: fixed">
   <tr>
-   <th width="100%">Interest</th>
-    <th width="100%">Strength</th>
+   <th width="50%">Interest</th>
+    <th width="50%">Strength</th>
   </tr>
   <tr>
     <td align="center">
