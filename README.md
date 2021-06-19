@@ -10,8 +10,8 @@
 </p>
 <table style="table-layout: fixed">
   <tr>
-   <th width="25%">Interest</th>
-    <th width="25%">Strength</th>
+   <th width="50%">Interest</th>
+    <th width="50%">Strength</th>
   </tr>
   <tr>
     <td align="center">
@@ -27,8 +27,8 @@
 
 <table style="table-layout: fixed">
   <tr>
-   <th width="25%">Mainly used</th>
-    <th width="25%">I've used at least once</th>
+   <th width="50%">Mainly used</th>
+    <th width="50%">I've used at least once</th>
   </tr>
   <tr>
     <td align="center">
