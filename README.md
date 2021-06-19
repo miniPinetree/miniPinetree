@@ -23,13 +23,11 @@
   </tr>
   <tr>
     <td>Gamification UX</td>
-    <td>Financial domain knowledge</td>
-    <td>내용</td>
+    <td rowspan="2">Financial domain knowledge</td>
   </tr>
       <tr>
     <td>User Satisfaction</td>
     <td>User Satisfaction</td>
-    <td>내용</td>
   </tr>
 </table>
 
