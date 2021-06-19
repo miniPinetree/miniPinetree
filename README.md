@@ -8,8 +8,8 @@
 
 <table style="table-layout: fixed; margin:auto">
   <tr>
-    <th width="350px">Interest</th>
-    <th width="350px">Strength</th>
+    <th width="400px">Interest</th>
+    <th width="400px">Strength</th>
   </tr>
   <tr>
     <td align="center">Data Visualization</td>
