@@ -11,8 +11,8 @@
 
 <table style="table-layout: fixed">
   <tr>
-   <th width="50%">Interest</th>
-    <th width="50%">Strength</th>
+   <th width="500px">Interest</th>
+    <th width="500px">Strength</th>
   </tr>
   <tr>
     <td align="center">
