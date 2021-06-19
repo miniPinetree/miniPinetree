@@ -6,10 +6,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
 
-<table style="table-layout: fixed">
+<table style="table-layout: fixed; margin:auto">
   <tr>
-    <th width="300px">Interest</th>
-    <th width="300px">Strength</th>
+    <th width="350px">Interest</th>
+    <th width="350px">Strength</th>
   </tr>
   <tr>
     <td align="center">Data Visualization</td>
