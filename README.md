@@ -10,8 +10,6 @@
 
 <h3 align="center"> Strength </h2>
 <p align="center">I like to learn new things.<br/>Financial domain knowledge<br/>(Work experience at a government-run bank)</p> 
-
-<br/>
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 
 <table style="table-layout: fixed">
@@ -49,20 +47,14 @@
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:mygomi05@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></h2>
+</a>
+   </h2>
 <br/>
 <div align="center" style="display:flex">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
 
 </div>
-
-<br/>
-<br/>
 
 <!---
 miniPinetree/miniPinetree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
