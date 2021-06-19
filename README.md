@@ -4,6 +4,20 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></h1>
+<table style="table-layout: fixed">
+  <tr>
+   <th width="25%">Interest</th>
+    <th width="25%">Strength</th>
+  </tr>
+  <tr>
+    <td align="center">
+      Data visualization.<br/>Gamification UX<br/>User Satisfaction 
+      </td>
+      <td align="center">
+      I like to learn new things.<br/>Financial domain knowledge<br/>(Work experience at a government-run bank)    
+      </td>
+  </tr>
+</table>
 
 <h3 align="center"> Interest </h2>
 <p align="center">Data visualization.<br/>Gamification UX<br/>User Satisfaction</p>
