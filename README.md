@@ -1,5 +1,5 @@
 
-<h2 align="center"> ✋ I'm Misong Go 🤚 </h2>
+<h2 align="center"> ✋ I'm Misong 🤚 </h2>
 <p align="center"><a href="https://velog.io/@mygomi">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
