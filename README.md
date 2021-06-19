@@ -6,27 +6,21 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
 
-| Interest | Strength | 
-|:---:|:----:|
-| Data Visualization | I like to learn new things | 
-| Gamification UX | Financial domain knowledge | 
-| User Satisfaction |(Work experience at a government-run bank)|
-
 <table style="table-layout: fixed">
   <tr>
-    <th width="400px">Interest</th>
-    <th width="400px">Strength</th>
+    <th width="300px">Interest</th>
+    <th width="300px">Strength</th>
   </tr>
   <tr>
-    <td>Data Visualization</td>
-    <td>I like to learn new things</td>
+    <td align="center">Data Visualization</td>
+    <td align="center">I like to learn new things</td>
   </tr>
   <tr>
-    <td>Gamification UX</td>
-    <td rowspan="2">Financial domain knowledge <br/> (Work experience at a government-run bank) </td>
+    <td align="center">Gamification UX</td>
+    <td align="center" rowspan="2">Financial domain knowledge <br/> (Work experience at a government-run bank) </td>
   </tr>
       <tr>
-    <td>User Satisfaction</td>
+    <td align="center">User Satisfaction</td>
   </tr>
 </table>
 
