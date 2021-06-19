@@ -41,11 +41,9 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></td>
   </tr>
 </table>
-
-<br/>
-<h2 align="center"> Contact Me 📲  <a href="https://velog.io/@mygomi">
+<h2 align="center"> Contact Me 📲  <a href="mailto:mygomi05@gmail.com">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
+        src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
    </h2>
