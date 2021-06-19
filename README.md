@@ -14,10 +14,10 @@
     <th width="50%">Strength</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       Data visualization.<br/>Gamification UX<br/>User Satisfaction 
       </td>
-      <td align="center">
+      <td align="center" width="50%">
       I like to learn new things.<br/>Financial domain knowledge<br/>(Work experience at a government-run bank)    
       </td>
   </tr>
