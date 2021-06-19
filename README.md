@@ -1,5 +1,5 @@
 
-<h2 align="center"> ✋ This is Me 🤚 </h2>
+<h1 align="center"> Front-end Developer </h1>
 <p align="center"><a href="https://velog.io/@mygomi">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
