@@ -10,14 +10,14 @@
 </p>
 <table style="table-layout: fixed">
   <tr>
-   <th width="50%">Interest</th>
-    <th width="50%">Strength</th>
+   <th width="70%">Interest</th>
+    <th width="30%">Strength</th>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
       Data visualization.<br/>Gamification UX<br/>User Satisfaction 
       </td>
-      <td align="center" width="50%">
+      <td align="center">
       I like to learn new things.<br/>Financial domain knowledge<br/>(Work experience at a government-run bank)    
       </td>
   </tr>
