@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></td>
   </tr>
 </table>
-<h2 align="center"> Contact Me 📲  <a href="mailto:mygomi05@gmail.com">
+<h2 align="center">📲 Contact Me  <a href="mailto:mygomi05@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
