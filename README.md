@@ -14,8 +14,8 @@
 
 <table style="table-layout: fixed">
   <tr>
-    <th width="10%">Interest</th>
-    <th width="10%">Strength</th>
+    <th width="400px">Interest</th>
+    <th width="400px">Strength</th>
   </tr>
   <tr>
     <td>Data Visualization</td>
