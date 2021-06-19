@@ -6,7 +6,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
 
-<p align="center">
+<center>
     <table style="table-layout: fixed; margin:auto">
   <tr>
     <th width="360px">Interest</th>
@@ -24,7 +24,7 @@
     <td align="center">User Satisfaction</td>
   </tr>
 </table>
-</p>
+</center>
 
 <h3 align="center"> Interest </h2>
 <p align="center">Data visualization.<br/>Gamification UX<br/>User Satisfaction</p>
