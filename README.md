@@ -10,8 +10,8 @@
 </p>
 <table style="table-layout: fixed">
   <tr>
-   <th width="70%">Interest</th>
-    <th width="30%">Strength</th>
+   <th width="100%">Interest</th>
+    <th width="100%">Strength</th>
   </tr>
   <tr>
     <td align="center">
