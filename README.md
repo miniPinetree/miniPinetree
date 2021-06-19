@@ -6,6 +6,12 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
 
+| Interest | Strength | 
+|:---:|:----:|
+| Data Visualization | I like to learn new things | 
+| Gamification UX | Financial domain knowledge | 
+| User Satisfaction | (Work experience at a government-run bank) | 
+
 <h3 align="center"> Interest </h2>
 <p align="center">Data visualization.<br/>Gamification UX<br/>User Satisfaction</p>
 
