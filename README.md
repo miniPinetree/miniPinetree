@@ -12,10 +12,10 @@
 | Gamification UX | Financial domain knowledge | 
 | User Satisfaction |(Work experience at a government-run bank)|
 
-<table>
+<table style="table-layout: fixed>
   <tr>
-    <th>Interest</th>
-    <th>Strength</th>
+    <th width="25%">Interest</th>
+    <th width="25%">Strength</th>
   </tr>
   <tr>
     <td>Data Visualization</td>
