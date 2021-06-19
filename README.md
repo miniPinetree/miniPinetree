@@ -7,6 +7,7 @@
 </a></p>
 
 <center>
+    <div>
     <table style="table-layout: fixed; margin:auto">
   <tr>
     <th width="360px">Interest</th>
@@ -24,6 +25,7 @@
     <td align="center">User Satisfaction</td>
   </tr>
 </table>
+    </div>
 </center>
 
 <h3 align="center"> Interest </h2>
