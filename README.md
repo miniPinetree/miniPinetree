@@ -3,11 +3,7 @@
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>   <a href="mailto:mygomi05@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> </h1>
+</a></h1>
 
 <h3 align="center"> Interest </h2>
 <p align="center">Data visualization.<br/>Gamification UX<br/>User Satisfaction</p>
@@ -66,19 +62,6 @@
 </div>
 
 <br/>
-<h2 align="center"> Contact Me 📲  <a href="mailto:mygomi05@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></h2>
-
-<p align="center">
-<a href="mailto:mygomi05@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></p>
-
 <br/>
 
 <!---
