@@ -12,6 +12,27 @@
 | Gamification UX | Financial domain knowledge | 
 | User Satisfaction |(Work experience at a government-run bank)|
 
+<table>
+  <tr>
+    <th>Interest</th>
+    <th>Strength</th>
+  </tr>
+  <tr>
+    <td>Data Visualization</td>
+    <td>I like to learn new things</td>
+  </tr>
+  <tr>
+    <td>Gamification UX</td>
+    <td>Financial domain knowledge</td>
+    <td>내용</td>
+  </tr>
+      <tr>
+    <td>User Satisfaction</td>
+    <td>User Satisfaction</td>
+    <td>내용</td>
+  </tr>
+</table>
+
 <h3 align="center"> Interest </h2>
 <p align="center">Data visualization.<br/>Gamification UX<br/>User Satisfaction</p>
 
