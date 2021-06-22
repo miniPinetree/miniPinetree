@@ -1,5 +1,5 @@
 
-<h1 align="center"> I'm a Front-end Developer</h1>
+<h1 align="center"> Front-end Developer</h1>
 <h2 align="center">✋ This is Me 🤚</h2>
 <p align="center">
  <a href="https://velog.io/@mygomi">
