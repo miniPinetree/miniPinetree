@@ -7,8 +7,15 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-</p>
+ 
+ <h3 align="center"> Interest </h2>
+<p align="center">Gamification UX<br/>Data visualization.<br/>User Satisfaction</p>
 
+<h3 align="center"> Strength </h2>
+<p align="center">I like to learn new things.<br/>Financial domain knowledge<br/>(Work experience at a government-run bank)</p> 
+
+</p>
+<!-- 
 <table style="table-layout: fixed">
   <tr>
    <th width="500px">Interest</th>
@@ -22,7 +29,7 @@
       I like to learn new things.<br/>Financial domain knowledge<br/>(Work experience at a government-run bank)    
       </td>
   </tr>
-</table>
+</table> -->
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 
