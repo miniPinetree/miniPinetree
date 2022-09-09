@@ -26,7 +26,7 @@
       Data visualization.<br/>Gamification UX<br/>User Satisfaction 
       </td>
       <td align="center">
-      I like to learn new things.<br/>Financial domain knowledge<br/>(Work experience at a government-run bank)    
+      I like to learn new things.
       </td>
   </tr>
 </table> -->
