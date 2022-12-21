@@ -14,6 +14,10 @@
 <h3 align="center"> Strength </h2>
 <p align="center">I like to learn new things.<br/>Financial domain knowledge<br/>(Work experience at a government-run bank)</p> 
 
+
+<h3 align="center"> Tech Stack </h2>
+<p align="center">Next.js, React, Typescript, Recoil</p> 
+
 </p>
 
 <!-- <table style="table-layout: fixed">
@@ -32,7 +36,6 @@
 </table>
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
- Next.js, React, Typescript, Recoil
 <table style="table-layout: fixed">
   <tr>
    <th width="500px">Mainly used</th>
