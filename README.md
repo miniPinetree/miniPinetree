@@ -1,5 +1,5 @@
 
-<h1 align="center"> Front-end Developer</h1>
+<h1 align="center"> Front-end Engineer</h1>
 <h2 align="center">✋ This is Me 🤚</h2>
 <p align="center">
  <a href="https://velog.io/@mygomi">
@@ -15,8 +15,8 @@
 <p align="center">I like to learn new things.<br/>Financial domain knowledge<br/>(Work experience at a government-run bank)</p> 
 
 </p>
-<!-- 
-<table style="table-layout: fixed">
+
+<!-- <table style="table-layout: fixed">
   <tr>
    <th width="500px">Interest</th>
     <th width="500px">Strength</th>
@@ -29,11 +29,11 @@
       I like to learn new things.
       </td>
   </tr>
-</table> -->
+</table>
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
  Next.js, React, Typescript, Recoil
-<!-- <table style="table-layout: fixed">
+<table style="table-layout: fixed">
   <tr>
    <th width="500px">Mainly used</th>
 <!--     <th width="500px">I've used at least once</th> -->
@@ -60,6 +60,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></td> -->
   </tr>
 </table> -->
+
 <h2 align="center">📲 Contact Me  <a href="mailto:mygomi05@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
