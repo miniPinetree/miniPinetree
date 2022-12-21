@@ -32,8 +32,8 @@
 </table> -->
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
-
-<table style="table-layout: fixed">
+ Next.js, React, Typescript, Recoil
+<!-- <table style="table-layout: fixed">
   <tr>
    <th width="500px">Mainly used</th>
 <!--     <th width="500px">I've used at least once</th> -->
@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></td> -->
   </tr>
-</table>
+</table> -->
 <h2 align="center">📲 Contact Me  <a href="mailto:mygomi05@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
