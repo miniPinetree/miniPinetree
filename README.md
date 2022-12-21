@@ -36,7 +36,7 @@
 <table style="table-layout: fixed">
   <tr>
    <th width="500px">Mainly used</th>
-    <th width="500px">I've used at least once</th>
+<!--     <th width="500px">I've used at least once</th> -->
   </tr>
   <tr>
     <td align="center">
