@@ -1,6 +1,5 @@
 
 <h1 align="center"> Front-end Engineer</h1>
-<h2 align="center">✋ This is Me 🤚</h2>
 <p align="center">
  <a href="https://velog.io/@mygomi">
     <img 
